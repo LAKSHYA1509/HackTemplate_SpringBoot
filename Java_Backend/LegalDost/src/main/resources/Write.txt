@@ -1,0 +1,45 @@
+Entity and models are related to database configuration and therefore a perfect plan is necessary that lays out plan for entire software and can be mostly used for dbms management.
+The following are the steps to create a database design plan:
+1. Define the purpose and scope of the database.
+2. Identify the stakeholders and their requirements.
+3. Determine the data entities and their relationships.
+4. Choose a database management system (DBMS).
+5. Design the database schema.
+6. Plan for data security and integrity.
+7. Plan for data backup and recovery.
+8. Plan for data maintenance and updates.
+9. Plan for data access and control.
+10. Plan for data storage and retrieval.
+
+
+Text to Speech Manual Convertor using word tools in web integrated software
+
+pdf lib utilisation
+
+Main issue- making chatbot and document intelligence usage
+
+Nullable=false (Only when necessary)
+
+
+Login Page Created that is extremely beautiful
+
+Today task is to connect to database for signup.
+
+Chatbot looking options
+
+Document intelligence api lookup
+
+Login process
+
+Why we make Service class?
+Service class is used to encapsulate the business logic of an application. It acts as an interface between the presentation layer and the data access layer. The service class is responsible for performing complex operations, such as data validation, business rules, and data manipulation.
+--> Optional in UserService used to?
+Ans- The Optional class is often used to handle situations where a user object may or may not be present. This could be due to various reasons such as the user not being found in the database, or theuser not being authenticated.
+
+
+Don't make yourself fool to SQL DATABASE...
+problem was not in post or authenticate but actually problem same data ki re-entry thi.
+New Data se login hota hai
+Ya to new data banao and usse kaam karo
+purana signup karne se database conflict hota hai
+That's why always make new data only
